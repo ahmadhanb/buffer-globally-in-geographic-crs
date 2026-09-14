@@ -4,7 +4,7 @@ This tool creates a buffer distance in METER for data distributed globally. It u
 Therefore, the UTM zone feature must be used and as Input UTM zone layer in order for the tool to work correctly.
 
 ## How to install
-Import the Python code directly from the Processing Toolbox. 
+Import the Python code directly from the QGIS Processing Toolbox. 
 
 ### Input Layer:
 use point vector layer only.
